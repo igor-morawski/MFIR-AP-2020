@@ -11,3 +11,12 @@ length = bedrest + bedhead
 H: **63** = 40 + 23 = 40 + 13 + 10
 
 height = bedrest + mattresses = bedrest + mattress + mattress
+
+# Ceiling [cm]
+
+H: 287 - 15
+
+height = ceiling - mounting (w/ comm. module)
+
+
+
