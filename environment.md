@@ -18,5 +18,16 @@ H: 287 - 15
 
 height = ceiling - mounting (w/ comm. module)
 
+# 2020/03/16
 
+## Slanted-view (rear)
 
+10 cm from window
+
+10 cm from the rear edge of the bed
+
+## Slanted-view (front)
+
+215 cm from window
+
+10 cm from the front edge of the bed
