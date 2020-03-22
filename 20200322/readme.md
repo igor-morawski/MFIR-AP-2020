@@ -4,6 +4,8 @@
 
 20 - wall
 
+34 - air
+
 Temp: 23.1 deg.
 
 Hygr: 81.9%
